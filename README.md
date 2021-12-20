@@ -8,6 +8,11 @@
 ### Mitigations
 [Log4j Be Gone](https://github.com/nccgroup/log4j-jndi-be-gone)
 
-### Scan Tools
+### Scan For Log4j Files
 [Qualys Scan](https://github.com/Qualys/log4jscanwin) \
 [Invoke-Log4ShellScan](https://github.com/TheTaylorLee/Log4J/blob/main/Invoke-Log4ShellScan.ps1) - [Credit goes to omrsafetyyo](https://github.com/omrsafetyo)
+
+### Find Indicators of Compromise
+- Download the portable version of [Everything](https://www.voidtools.com/downloads/)
+- Run everything as an administror
+- Generate a search string such as `.log C:\ content:"jndi"` and run a scan. Modify the path as needed.
