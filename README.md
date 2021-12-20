@@ -10,4 +10,4 @@
 
 ### Scan Tools
 [Qualys Scan](https://github.com/Qualys/log4jscanwin) \
-[Find Affected Servers](https://github.com/TheTaylorLee/Log4J/blob/master/Invoke-Log4ShellScan.ps1)
+[Powershell Scan Script](https://github.com/TheTaylorLee/Log4J/blob/master/Invoke-Log4ShellScan.ps1)
