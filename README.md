@@ -15,4 +15,4 @@
 ### Find Indicators of Compromise
 - Download the portable version of [Everything](https://www.voidtools.com/downloads/)
 - Run everything as an administror
-- Generate a search string such as `.log C:\ content:"jndi"` and run a scan. Modify the path as needed.
+- Generate a search string such as `.log C:\ content:"jndi:ldap"` and run a scan. Modify the path as needed.
