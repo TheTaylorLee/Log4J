@@ -10,4 +10,4 @@
 
 ### Scan Tools
 [Qualys Scan](https://github.com/Qualys/log4jscanwin) \
-[Powershell Scan Script](https://github.com/TheTaylorLee/Log4J/blob/master/Invoke-Log4ShellScan.ps1)
+[Powershell Scan Script](https://github.com/TheTaylorLee/Log4J/blob/main/Invoke-Log4ShellScan.ps1) #Script borrowed from another repository that I lost the link to.
