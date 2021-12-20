@@ -10,4 +10,4 @@
 
 ### Scan Tools
 [Qualys Scan](https://github.com/Qualys/log4jscanwin) \
-[Invoke-Log4ShellScan](https://github.com/TheTaylorLee/Log4J/blob/main/Invoke-Log4ShellScan.ps1) #Script borrowed from another repository that I lost the link to.
+[Invoke-Log4ShellScan](https://github.com/TheTaylorLee/Log4J/blob/main/Invoke-Log4ShellScan.ps1) - [Credit goes to omrsafetyyo](https://github.com/omrsafetyo)
